@@ -44,7 +44,8 @@ Re-run the **Swipe_ModelTraining - G10.ipynb** notebook using the noisy dataset 
 Install dependencies using:
 
 ```bash
-pip install pandas
+pip3 install pandas
+pip3 install numpy
 ```
 
 ## Contributors
